@@ -34,4 +34,11 @@ To get started with the Compound Practice repository, follow the steps below:
    forge test
    ```
 
+6. Run the script:
+
+   ```shell
+   forge script script/deploy.s.sol:MyScript --rpc-url https://sepolia.infura.io/v3/3fee0589f99a47c5a989e088bfd178fb  --broadcast
+   ```
+
+
 Feel free to explore the code and dive into the exercises provided to enhance your understanding of Compound Finance. Happy practicing!

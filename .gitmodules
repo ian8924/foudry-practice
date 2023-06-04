@@ -1,0 +1,3 @@
+[submodule "CompoundPractice/lib/openzeppelin-contracts"]
+	path = CompoundPractice/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
